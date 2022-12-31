@@ -50,6 +50,10 @@
                 <a class="btn btn-primary btn-lg" href="index.jsp" role="button">Jumbo action name</a>
             </p>
         </div>
+      <hr/>
+      <div class="card p-2">
+        <h3>Deployment from the staff branch</h3>
+      </div>
         <div class="card-columns">
             <div class="card">
                 <img class="card-img-top" src="holder.js/100x180/" alt="">
